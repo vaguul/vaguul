@@ -11,18 +11,18 @@ Vaguul is the programmer behind Zemiax, a personal software studio for operation
 
 ## Public layer
 
-- [Portfolio](https://valaksi.github.io/portfolio/)
+- [Portfolio](https://vaguul.github.io/portfolio/)
 - [Zemiax](https://github.com/zemiax)
-- [discord-command-controls](https://github.com/valaksi/discord-command-controls)
-- [coolify-stack-starters](https://github.com/valaksi/coolify-stack-starters)
-- [social-feed-inputs](https://github.com/valaksi/social-feed-inputs)
-- [dark-founder-portfolio](https://github.com/valaksi/dark-founder-portfolio)
+- [discord-command-controls](https://github.com/vaguul/discord-command-controls)
+- [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters)
+- [social-feed-inputs](https://github.com/vaguul/social-feed-inputs)
+- [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio)
 
 ## Notes
 
 - live product repos stay private under `zemiax`
 - public releases are extracted on purpose, not mirrored from product code
-- `valaksi` is the current public GitHub namespace; Vaguul is the maintainer identity
+- `vaguul` is the current public GitHub namespace; Vaguul is the maintainer identity
 
 ## Maintenance style
 
