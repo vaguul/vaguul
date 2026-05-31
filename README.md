@@ -1,6 +1,6 @@
-# Valaksi
+# Vaguul / Zemiax
 
-Software for operations, automation, and control.
+Vaguul is the programmer behind Zemiax, a personal software studio for operations, automation, Discord tooling, licensing systems, and control panels.
 
 ## Selected work
 
@@ -22,6 +22,7 @@ Software for operations, automation, and control.
 
 - live product repos stay private under `zemiax`
 - public releases are extracted on purpose, not mirrored from product code
+- `valaksi` is the current public GitHub namespace; Vaguul is the maintainer identity
 
 ## Maintenance style
 
