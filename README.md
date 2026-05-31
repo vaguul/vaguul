@@ -22,3 +22,10 @@ Software for operations, automation, and control.
 
 - live product repos stay private under `zemiax`
 - public releases are extracted on purpose, not mirrored from product code
+
+## Maintenance style
+
+- small reusable releases
+- tests and workflows before public claims
+- private product code stays private
+- public repos stay documented, licensed, and easy to validate
