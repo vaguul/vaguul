@@ -11,6 +11,13 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - [social-feed-inputs](https://github.com/vaguul/social-feed-inputs) - small parser utilities for social/feed inputs.
 - [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio) - portfolio site work.
 
+## Current Maintenance Focus
+
+- keeping public packages small, tested, and documented
+- maintaining CI, CodeQL, secret scanning, and Dependabot updates
+- extracting reusable pieces from private Zemiax product work when they can stand alone
+- reviewing focused issues and pull requests around Discord tooling, self-hosting, and automation
+
 ## What I Work On
 
 - Discord bot control panels and command systems
