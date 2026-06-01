@@ -35,6 +35,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 
 ## Recent OSS Work
 
+- [discord-command-controls#12/#13](https://github.com/vaguul/discord-command-controls/issues?q=is%3Aissue%20state%3Aclosed%20%2312%20%2313) - added role override fixtures and dashboard policy examples with passing CI.
 - [social-feed-inputs v0.1.2](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.2) - added feed URL edge-case fixtures and clearer unsupported-domain behavior.
 - [coolify-stack-starters#4](https://github.com/vaguul/coolify-stack-starters/issues/4) - added a starter validation matrix and closed the roadmap issue with passing checks.
 - [compose-config-env-lint v0.1.1](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.1) - added JSON output for CI and documented Compose interpolation examples.
