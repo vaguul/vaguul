@@ -8,6 +8,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 
 - [discord-command-controls](https://github.com/vaguul/discord-command-controls) - command policy helpers for Discord bots and dashboards.
 - [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters) - starter stacks for self-hosted apps.
+- [compose-config-env-lint](https://github.com/vaguul/compose-config-env-lint) - lint for Compose `configs.content` runtime env interpolation mistakes.
 - [social-feed-inputs](https://github.com/vaguul/social-feed-inputs) - small parser utilities for social/feed inputs.
 - [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio) - portfolio site work.
 
