@@ -35,6 +35,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 
 ## Recent OSS Work
 
+- [compose-config-env-lint v0.1.1](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.1) - added JSON output for CI and documented Compose interpolation examples.
 - [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fixed changelog external link behavior and added regression coverage.
 - [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - added tests around resource `get()` methods.
 
