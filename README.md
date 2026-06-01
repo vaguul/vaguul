@@ -1,53 +1,33 @@
-# Vaguul / Zemiax
+# Vaguul
 
-Vaguul is the programmer behind Zemiax, a personal software studio for operations, automation, Discord tooling, licensing systems, and control panels.
+I build and maintain small tools around Discord bots, automation, self-hosting, dashboards, and operations software.
 
-## Open-source focus
+Most of my public work sits under the Zemiax name. Some projects are public utilities, and some product work stays private until there is a clean piece worth releasing.
 
-- Discord command governance, dashboard policy helpers, and bot operations.
-- Social feed input normalization for alert systems.
-- Self-hosted Docker and Coolify starter stacks.
-- Small public utilities extracted from private product work.
+## What I Maintain
 
-## Active maintenance
+- [discord-command-controls](https://github.com/vaguul/discord-command-controls) - command policy helpers for Discord bots and dashboards.
+- [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters) - starter stacks for self-hosted apps.
+- [social-feed-inputs](https://github.com/vaguul/social-feed-inputs) - small parser utilities for social/feed inputs.
+- [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio) - portfolio site work.
 
-- Primary maintainer of [discord-command-controls](https://github.com/vaguul/discord-command-controls), including releases, issues, tests, CI, CodeQL, and security baseline checks.
-- Maintainer of [social-feed-inputs](https://github.com/vaguul/social-feed-inputs), focused on deterministic social input parsing and feed URL resolution.
-- Maintainer of [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters), focused on clean public templates for self-hosted apps.
+## What I Work On
 
-## External contributions
+- Discord bot control panels and command systems
+- self-hosted deployment templates
+- automation scripts and small maintenance tools
+- licensing, admin panels, and private operations software
 
-- [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fix changelog external link behavior with regression coverage.
-- [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - add resource `get()` method tests for happy-path and 404 behavior.
+## Recent OSS Work
 
-## Selected work
+- [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fixed changelog external link behavior and added regression coverage.
+- [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - added tests around resource `get()` methods.
 
-- `ZemiaxPanel` - admin-first SMM operations system
-- `ZemiaxBot` - Discord control stack with dashboard, API, and workers
-- `ZemiaxTweaks` - Windows utility with licensing and account flows
-- `ZemiaxBinance` - controlled trading runtime
+## Links
 
-## Public layer
-
-- [Portfolio](https://vaguul.github.io/portfolio/)
-- [discord-command-controls](https://github.com/vaguul/discord-command-controls)
-- [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters)
-- [social-feed-inputs](https://github.com/vaguul/social-feed-inputs)
-- [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio)
-
-## Collaboration
-
-Issues and pull requests are welcome on public utility repos when the change is scoped, testable, and does not include private tokens, webhook URLs, guild IDs, customer data, or production secrets.
+- Portfolio: [vaguul.github.io/portfolio](https://vaguul.github.io/portfolio/)
+- Main public repo: [discord-command-controls](https://github.com/vaguul/discord-command-controls)
 
 ## Notes
 
-- live product repos stay private under `zemiax`
-- public releases are extracted on purpose, not mirrored from product code
-- `vaguul` is the current public GitHub namespace; Vaguul is the maintainer identity
-
-## Maintenance style
-
-- small reusable releases
-- tests and workflows before public claims
-- private product code stays private
-- public repos stay documented, licensed, and easy to validate
+I try to keep public repos small, documented, and testable. If an issue or PR is specific and reproducible, I am usually open to looking at it.
