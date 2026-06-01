@@ -19,6 +19,13 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - extracting reusable pieces from private Zemiax product work when they can stand alone
 - reviewing focused issues and pull requests around Discord tooling, self-hosting, and automation
 
+## Public Roadmap
+
+- [compose-config-env-lint issues](https://github.com/vaguul/compose-config-env-lint/issues) - CI output, Compose examples, and parser coverage.
+- [discord-command-controls issues](https://github.com/vaguul/discord-command-controls/issues) - dashboard policy examples and role override fixtures.
+- [coolify-stack-starters issues](https://github.com/vaguul/coolify-stack-starters/issues) - starter validation notes and deployment hardening.
+- [social-feed-inputs issues](https://github.com/vaguul/social-feed-inputs/issues) - feed resolver fixtures and clearer unsupported-input behavior.
+
 ## What I Work On
 
 - Discord bot control panels and command systems
