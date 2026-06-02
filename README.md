@@ -38,7 +38,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 ## Recent OSS Work
 
 - [discord-command-controls v0.1.4](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.4) - added role override fixtures and dashboard policy examples with passing CI.
-- [oss-maintainer-snapshot v0.1.1](https://github.com/vaguul/oss-maintainer-snapshot/releases/tag/v0.1.1) - added `--since` filtering for recent GitHub maintenance queue reports with tests.
+- [oss-maintainer-snapshot v0.1.2](https://github.com/vaguul/oss-maintainer-snapshot/releases/tag/v0.1.2) - added attention grouping for review-required PRs, blocked queues, and triage labels.
 - [social-feed-inputs v0.1.2](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.2) - added feed URL edge-case fixtures and clearer unsupported-domain behavior.
 - [coolify-stack-starters v0.1.1](https://github.com/vaguul/coolify-stack-starters/releases/tag/v0.1.1) - added a starter validation matrix and closed the roadmap issue with passing checks.
 - [dark-founder-portfolio v0.1.1](https://github.com/vaguul/dark-founder-portfolio/releases/tag/v0.1.1) - marked the starter as a GitHub template and documented template usage.
