@@ -38,6 +38,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - [discord-command-controls v0.1.4](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.4) - added role override fixtures and dashboard policy examples with passing CI.
 - [social-feed-inputs v0.1.2](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.2) - added feed URL edge-case fixtures and clearer unsupported-domain behavior.
 - [coolify-stack-starters v0.1.1](https://github.com/vaguul/coolify-stack-starters/releases/tag/v0.1.1) - added a starter validation matrix and closed the roadmap issue with passing checks.
+- [dark-founder-portfolio v0.1.1](https://github.com/vaguul/dark-founder-portfolio/releases/tag/v0.1.1) - marked the starter as a GitHub template and documented template usage.
 - [compose-config-env-lint v0.1.1](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.1) - added JSON output for CI and documented Compose interpolation examples.
 - [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fixed changelog external link behavior and added regression coverage.
 - [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - added tests around resource `get()` methods.
