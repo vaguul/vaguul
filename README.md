@@ -35,6 +35,14 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - automation scripts and small maintenance tools
 - licensing, admin panels, and private operations software
 
+## Available For
+
+- Discord bot dashboards, command controls, and automation
+- small TypeScript/Node.js tools and CLI utilities
+- Docker Compose, Coolify, and self-hosted deployment setup
+- GitHub maintenance support: issues, PR review, CI, docs, and releases
+- portfolio and landing page builds for small products
+
 ## Recent OSS Work
 
 - [discord-command-controls v0.1.4](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.4) - added role override fixtures and dashboard policy examples with passing CI.
@@ -50,6 +58,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 
 - Portfolio: [vaguul.github.io/portfolio](https://vaguul.github.io/portfolio/)
 - Main public repo: [discord-command-controls](https://github.com/vaguul/discord-command-controls)
+- Contact: [heyvaguul@gmail.com](mailto:heyvaguul@gmail.com)
 
 ## Notes
 
