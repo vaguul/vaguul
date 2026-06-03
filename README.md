@@ -42,6 +42,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - Docker Compose, Coolify, and self-hosted deployment setup
 - GitHub maintenance support: issues, PR review, CI, docs, and releases
 - portfolio and landing page builds for small products
+- fixed-scope bot, automation, and self-hosting work through [Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
 
 ## Recent OSS Work
 
@@ -57,6 +58,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 ## Links
 
 - Portfolio: [vaguul.github.io/portfolio](https://vaguul.github.io/portfolio/)
+- Service: [Bot and automation fixes on Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
 - Main public repo: [discord-command-controls](https://github.com/vaguul/discord-command-controls)
 - Contact: [heyvaguul@gmail.com](mailto:heyvaguul@gmail.com)
 
