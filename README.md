@@ -1,6 +1,6 @@
 # Vaguul
 
-I build and maintain small tools around Discord bots, automation, self-hosting, dashboards, and operations software.
+I build practical software for small teams and creators: websites, landing pages, dashboards, automation scripts, API integrations, bots, deployment fixes, and maintenance tools.
 
 Most of my public work sits under the Zemiax name. Some projects are public utilities, and some product work stays private until there is a clean piece worth releasing.
 
@@ -18,7 +18,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 - keeping public packages small, tested, and documented
 - maintaining CI, CodeQL, secret scanning, and Dependabot updates
 - extracting reusable pieces from private Zemiax product work when they can stand alone
-- reviewing focused issues and pull requests around Discord tooling, self-hosting, and automation
+- reviewing focused issues and pull requests around web apps, automation, self-hosting, bots, and repo maintenance
 
 ## Public Roadmap
 
@@ -30,19 +30,22 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 
 ## What I Work On
 
-- Discord bot control panels and command systems
-- self-hosted deployment templates
-- automation scripts and small maintenance tools
-- licensing, admin panels, and private operations software
+- landing pages, portfolios, and small business websites
+- dashboards, admin panels, and MVP screens
+- automation scripts, API integrations, and small maintenance tools
+- Discord/Telegram bot control panels and command systems
+- Docker, Coolify, CI, and self-hosted deployment fixes
+- licensing, private admin systems, and operations software
 
 ## Available For
 
-- Discord bot dashboards, command controls, and automation
-- small TypeScript/Node.js tools and CLI utilities
-- Docker Compose, Coolify, and self-hosted deployment setup
-- GitHub maintenance support: issues, PR review, CI, docs, and releases
-- portfolio and landing page builds for small products
-- fixed-scope bot, automation, and self-hosting work through [Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
+- landing pages, portfolios, and small business websites
+- bug fixes and focused feature patches in existing repos
+- dashboards, admin panels, MVP screens, and internal tools
+- API integrations, automation scripts, data cleanup, and notifications
+- Discord/Telegram bots, command systems, and control panels
+- Docker Compose, Coolify, CI, GitHub, and self-hosted deployment setup
+- fixed-scope programming work through [Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
 
 ## Recent OSS Work
 
@@ -58,7 +61,7 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 ## Links
 
 - Portfolio: [vaguul.github.io/portfolio](https://vaguul.github.io/portfolio/)
-- Service: [Bot and automation fixes on Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
+- Service: [Fixed-scope programming work on Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
 - Main public repo: [discord-command-controls](https://github.com/vaguul/discord-command-controls)
 - Contact: [heyvaguul@gmail.com](mailto:heyvaguul@gmail.com)
 
