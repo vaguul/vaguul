@@ -1,5 +1,7 @@
 # Vaguul
 
+![Vaguul / Zemiax service banner](./assets/vaguul-github-banner.png)
+
 I build practical software for small teams and creators: websites, landing pages, dashboards, automation scripts, API integrations, bots, deployment fixes, and maintenance tools.
 
 Most of my public work sits under the Zemiax name. Some projects are public utilities, and some product work stays private until there is a clean piece worth releasing.
