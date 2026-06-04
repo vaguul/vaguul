@@ -2,25 +2,36 @@
 
 ![Vaguul / Zemiax service banner](./assets/vaguul-github-banner.png)
 
-I build practical software for small teams and creators: websites, landing pages, dashboards, automation scripts, API integrations, bots, deployment fixes, and maintenance tools.
+I build practical software across the full stack: websites, web apps, dashboards, APIs, automations, bots, scripts, integrations, developer tools, and deployment-ready workflows.
 
-Most of my public work sits under the Zemiax name. Some projects are public utilities, and some product work stays private until there is a clean piece worth releasing.
+Most of my public work sits under the Vaguul/Zemiax name. Some projects are public utilities, and some product work stays private until there is a clean piece worth releasing.
 
-## What I Maintain
+## What I Build
+
+- websites, landing pages, portfolios, and business pages
+- full-stack web apps, dashboards, admin panels, and MVPs
+- APIs, backend services, integrations, and data workflows
+- automation scripts, notifications, cleanup tools, and internal operations
+- Discord/Telegram bots, control panels, command systems, and bot tooling
+- frontend, backend, CI/CD, Docker, GitHub Actions, and deployment workflows
+- debugging, feature patches, tests, docs, and code cleanup
+
+## Public Projects
 
 - [discord-command-controls](https://github.com/vaguul/discord-command-controls) - command policy helpers for Discord bots and dashboards.
-- [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters) - starter stacks for self-hosted apps.
-- [compose-config-env-lint](https://github.com/vaguul/compose-config-env-lint) - lint for Compose `configs.content` runtime env interpolation mistakes.
-- [oss-maintainer-snapshot](https://github.com/vaguul/oss-maintainer-snapshot) - read-only GitHub maintenance queue reports for issues and pull requests.
-- [social-feed-inputs](https://github.com/vaguul/social-feed-inputs) - small parser utilities for social/feed inputs.
+- [coolify-stack-starters](https://github.com/vaguul/coolify-stack-starters) - starter stacks for web apps, APIs, workers, and databases.
+- [compose-config-env-lint](https://github.com/vaguul/compose-config-env-lint) - CLI checks for Docker Compose config/env mistakes.
+- [oss-maintainer-snapshot](https://github.com/vaguul/oss-maintainer-snapshot) - read-only GitHub queue reports for issues and pull requests.
+- [social-feed-inputs](https://github.com/vaguul/social-feed-inputs) - parser utilities for social/feed inputs and automation.
 - [dark-founder-portfolio](https://github.com/vaguul/dark-founder-portfolio) - portfolio site work.
 
-## Current Maintenance Focus
+## Current Focus
 
 - keeping public packages small, tested, and documented
-- maintaining CI, CodeQL, secret scanning, and Dependabot updates
+- building reusable pieces for web apps, APIs, automation, bots, and dashboards
+- maintaining CI, CodeQL, secret scanning, releases, and Dependabot updates
 - extracting reusable pieces from private Zemiax product work when they can stand alone
-- reviewing focused issues and pull requests around web apps, automation, self-hosting, bots, and repo maintenance
+- reviewing focused issues and pull requests around web apps, automation, Docker, GitHub, APIs, and developer tooling
 
 ## Public Roadmap
 
@@ -33,21 +44,22 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 ## What I Work On
 
 - landing pages, portfolios, and small business websites
-- dashboards, admin panels, and MVP screens
-- automation scripts, API integrations, and small maintenance tools
+- web apps, dashboards, admin panels, and MVP screens
+- API development, backend services, and third-party integrations
+- automation scripts, data workflows, and internal tools
 - Discord/Telegram bot control panels and command systems
-- Docker, Coolify, CI, and self-hosted deployment fixes
+- Docker, Coolify, CI, and deployment workflows
 - licensing, private admin systems, and operations software
 
 ## Available For
 
 - landing pages, portfolios, and small business websites
-- bug fixes and focused feature patches in existing repos
-- dashboards, admin panels, MVP screens, and internal tools
-- API integrations, automation scripts, data cleanup, and notifications
+- full-stack web apps, dashboards, admin panels, MVP screens, and internal tools
+- API integrations, backend development, automation scripts, data cleanup, and notifications
 - Discord/Telegram bots, command systems, and control panels
-- Docker Compose, Coolify, CI, GitHub, and self-hosted deployment setup
-- fixed-scope programming work through [Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
+- frontend/backend fixes, feature patches, tests, and documentation
+- Docker Compose, Coolify, CI, GitHub, and deployment setup
+- fixed-scope programming work through [Contra](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
 
 ## Recent OSS Work
 
@@ -63,10 +75,10 @@ Most of my public work sits under the Zemiax name. Some projects are public util
 ## Links
 
 - Portfolio: [vaguul.github.io/portfolio](https://vaguul.github.io/portfolio/)
-- Service: [Fixed-scope programming work on Contra](https://contra.com/s/lrs7rUkr-bot-and-automation-fixes)
+- Service: [Web apps, automation, APIs, and internal tools on Contra](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
 - Main public repo: [discord-command-controls](https://github.com/vaguul/discord-command-controls)
 - Contact: [heyvaguul@gmail.com](mailto:heyvaguul@gmail.com)
 
 ## Notes
 
-I try to keep public repos small, documented, and testable. If an issue or PR is specific and reproducible, I am usually open to looking at it.
+I keep public repos small, documented, and testable. If a software problem is specific and reproducible, I am usually open to looking at it.
