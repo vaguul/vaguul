@@ -63,12 +63,13 @@ Most of my public work sits under the Vaguul/Zemiax name. Some projects are publ
 
 ## Recent OSS Work
 
-- [discord-command-controls v0.1.4](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.4) - added role override fixtures and dashboard policy examples with passing CI.
-- [oss-maintainer-snapshot v0.1.2](https://github.com/vaguul/oss-maintainer-snapshot/releases/tag/v0.1.2) - added attention grouping for review-required PRs, blocked queues, and triage labels.
-- [social-feed-inputs v0.1.2](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.2) - added feed URL edge-case fixtures and clearer unsupported-domain behavior.
+- [CodeQL maintenance in discord-command-controls#39](https://github.com/vaguul/discord-command-controls/pull/39) and [social-feed-inputs#30](https://github.com/vaguul/social-feed-inputs/pull/30) - synchronized pinned action versions after split dependency updates and restored green security workflows.
+- [discord-command-controls v0.1.5](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.5) - shipped compiled package exports and verified installation from a GitHub release tag.
+- [oss-maintainer-snapshot v0.1.4](https://github.com/vaguul/oss-maintainer-snapshot/releases/tag/v0.1.4) - kept CI/security output ASCII-safe and updated the scheduled workflow example.
+- [social-feed-inputs v0.1.4](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.4) - added TypeScript 6 CI compatibility and verified compiled package imports.
 - [coolify-stack-starters v0.1.1](https://github.com/vaguul/coolify-stack-starters/releases/tag/v0.1.1) - added a starter validation matrix and closed the roadmap issue with passing checks.
 - [dark-founder-portfolio v0.1.1](https://github.com/vaguul/dark-founder-portfolio/releases/tag/v0.1.1) - marked the starter as a GitHub template and documented template usage.
-- [compose-config-env-lint v0.1.1](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.1) - added JSON output for CI and documented Compose interpolation examples.
+- [compose-config-env-lint v0.1.2](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.2) - shipped the compiled CLI with installable package metadata and release-tag installation docs.
 - [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fixed changelog external link behavior and added regression coverage.
 - [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - added tests around resource `get()` methods.
 
