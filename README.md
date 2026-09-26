@@ -61,17 +61,26 @@ Most of my public work sits under the Vaguul/Zemiax name. Some projects are publ
 - Docker Compose, Coolify, CI, GitHub, and deployment setup
 - fixed-scope programming work through [Contra](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
 
-## Recent OSS Work
+## External Contributions
 
-- [CodeQL maintenance in discord-command-controls#39](https://github.com/vaguul/discord-command-controls/pull/39) and [social-feed-inputs#30](https://github.com/vaguul/social-feed-inputs/pull/30) - synchronized pinned action versions after split dependency updates and restored green security workflows.
+14 merged pull requests across six public projects:
+
+- **Coolify:** [GitHub Enterprise install paths](https://github.com/coollabsio/coolify/pull/10576), [Grafana-only service fields](https://github.com/coollabsio/coolify/pull/10562), and [source-commit build settings](https://github.com/coollabsio/coolify/pull/10551).
+- **Coolify Docs:** clarified [private Git submodules](https://github.com/coollabsio/coolify-docs/pull/641), [MAC-invalid restore errors](https://github.com/coollabsio/coolify-docs/pull/643), and [file-mount prerequisites](https://github.com/coollabsio/coolify-docs/pull/644).
+- **Quater:** fixed [external app-file discovery](https://github.com/DevilsAutumn/quater/pull/162), clarified [Rust setup requirements](https://github.com/DevilsAutumn/quater/pull/161), and added [RouteGroup include-guard tests](https://github.com/DevilsAutumn/quater/pull/139).
+- **gotsaeng-os:** fixed [metadata validation defaults](https://github.com/wonkwonlee/gotsaeng-os/pull/20) and [memo/note type aliases](https://github.com/wonkwonlee/gotsaeng-os/pull/11).
+- **pypncp:** added [`max_concurrent` support](https://github.com/gabrielgz0/pypncp/pull/9) and [resource `get()` tests](https://github.com/gabrielgz0/pypncp/pull/7).
+- **AntiMicroX:** fixed [external changelog links with regression coverage](https://github.com/AntiMicroX/antimicrox/pull/1330).
+
+## Maintained Project Work
+
+- [CodeQL maintenance in discord-command-controls#45](https://github.com/vaguul/discord-command-controls/pull/45), [#39](https://github.com/vaguul/discord-command-controls/pull/39), and [social-feed-inputs#30](https://github.com/vaguul/social-feed-inputs/pull/30) - kept paired CodeQL action versions synchronized after dependency updates.
 - [discord-command-controls v0.1.5](https://github.com/vaguul/discord-command-controls/releases/tag/v0.1.5) - shipped compiled package exports and verified installation from a GitHub release tag.
 - [oss-maintainer-snapshot v0.1.4](https://github.com/vaguul/oss-maintainer-snapshot/releases/tag/v0.1.4) - kept CI/security output ASCII-safe and updated the scheduled workflow example.
 - [social-feed-inputs v0.1.4](https://github.com/vaguul/social-feed-inputs/releases/tag/v0.1.4) - added TypeScript 6 CI compatibility and verified compiled package imports.
 - [coolify-stack-starters v0.1.1](https://github.com/vaguul/coolify-stack-starters/releases/tag/v0.1.1) - added a starter validation matrix and closed the roadmap issue with passing checks.
 - [dark-founder-portfolio v0.1.1](https://github.com/vaguul/dark-founder-portfolio/releases/tag/v0.1.1) - marked the starter as a GitHub template and documented template usage.
 - [compose-config-env-lint v0.1.2](https://github.com/vaguul/compose-config-env-lint/releases/tag/v0.1.2) - shipped the compiled CLI with installable package metadata and release-tag installation docs.
-- [AntiMicroX/antimicrox#1330](https://github.com/AntiMicroX/antimicrox/pull/1330) - fixed changelog external link behavior and added regression coverage.
-- [gabrielgz0/pypncp#7](https://github.com/gabrielgz0/pypncp/pull/7) - added tests around resource `get()` methods.
 
 ## Links
 
