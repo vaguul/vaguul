@@ -1,12 +1,12 @@
 # Vaguul
 
-I build web applications, developer tools, and self-hosted software. My work includes operations panels, payment workflows, mail and hosting tools, Windows utilities, and Discord and Telegram applications.
+I build web applications, developer tools, and self-hosted software. My projects span operations, payments, mail, hosting, Windows utilities, and Discord/Telegram applications.
 
-My product work is organized into three independent families: **Zemiax**, **Lubu**, and **Daebor**. My public work focuses on standalone utilities with clear boundaries, examples, and tests.
-
-[Portfolio](https://vaguul.github.io/portfolio/) · [Zemiax](https://github.com/zemiax) · [Lubu (LubuLabs on GitHub)](https://github.com/LubuLabs) · [Daebor](https://github.com/Daebor) · [Work with me](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
+[Portfolio](https://vaguul.github.io/portfolio/) · [Zemiax](https://github.com/zemiax) · [Lubu](https://github.com/LubuLabs) · [Daebor](https://github.com/Daebor) · [Work with me](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
 
 ## Selected Projects
+
+Standalone public utilities with clear boundaries, examples, and tests.
 
 | Project | What it does |
 | --- | --- |
@@ -26,12 +26,14 @@ Selected merged changes:
 - **Quater:** [rejecting external app-file discovery](https://github.com/DevilsAutumn/quater/pull/162) and [RouteGroup regression tests](https://github.com/DevilsAutumn/quater/pull/139).
 - **AntiMicroX:** [external changelog links and regression coverage](https://github.com/AntiMicroX/antimicrox/pull/1330).
 
-[Browse my merged external pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Avaguul+is%3Apublic+-user%3Avaguul+-user%3Azemiax). Contributions also include Coolify Docs, pypncp, and gotsaeng-os.
+[Browse my merged external pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Avaguul+is%3Apublic+-user%3Avaguul+-user%3Azemiax+-user%3ALubuLabs+-user%3ADaebor). Contributions also include Coolify Docs, pypncp, and gotsaeng-os.
 
 ## Current Work
 
+Three independent product families:
+
 - **[Zemiax](https://github.com/zemiax):** ZemiaxPanel, ZemiaxPay, and ZemiaxTweaks.
-- **[Lubu (LubuLabs on GitHub)](https://github.com/LubuLabs):** LubuMail, LubuMail Mobile, and LubuHost.
+- **[Lubu](https://github.com/LubuLabs):** LubuMail, LubuMail Mobile, and LubuHost.
 - **[Daebor](https://github.com/Daebor):** Daebor Discord and Daebor Telegram.
 
 Product repositories stay private; public utilities are maintained separately from live operations and customer data. These names describe ongoing development; availability and release status vary by product.
