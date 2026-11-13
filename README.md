@@ -1,7 +1,5 @@
 # Vaguul
 
-![Vaguul](assets/vaguul-github-banner.png)
-
 I build web applications, developer tools, and self-hosted software.
 
 [Portfolio](https://vaguul.github.io/portfolio/) · [Email](mailto:heyvaguul@gmail.com) · [Work with me](https://contra.com/s/lrs7rUkr-automation-api-integrations-and-internal-tools)
